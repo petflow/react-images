@@ -1,6 +1,6 @@
 {
   "name": "react-images",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "A simple, responsive lightbox component for displaying an array of images with React.js",
   "main": "lib/Lightbox.js",
   "author": "Joss Mackison",
@@ -13,7 +13,7 @@
     "aphrodite": "^0.5.0",
     "prop-types": "^15.5.8",
     "react-addons-css-transition-group": "^15.3.0",
-    "react-scrolllock": "petflow/react-scrolllock"
+    "react-scrolllock": "petflow/react-scrolllock#7b8a03b87ef422bbffc9610ddc35028b8a5ba96d"
   },
   "devDependencies": {
     "babel": "^6.5.2",
